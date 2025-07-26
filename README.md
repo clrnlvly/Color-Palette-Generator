@@ -1,10 +1,10 @@
 # 🎨 Color Palette Generator
 
-A minimal web app that generates random color palettes using **HTML**, **CSS**, and **JavaScript**. Great for designers and developers looking for quick inspiration.
-
+A minimal web app that generates random color palettes using **HTML**, **CSS**, and **JavaScript**.
 ## 🔗 Live Demo  
 [🔗 View on GitHub Pages](https://clrnlvly.github.io/Color-Palette-Generator/)
 
+##Youtube: https://youtu.be/I5GYkqWODZA
 ---
 
 ## ✨ Features
