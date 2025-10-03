@@ -4,7 +4,8 @@ A minimal web app that generates random color palettes using **HTML**, **CSS**, 
 ## 🔗 Live Demo  
 [🔗 View on GitHub Pages](https://clrnlvly.github.io/Color-Palette-Generator/)
 
-##Youtube: https://youtu.be/YuY-QrDrfhU
+## Video Demo:
+https://drive.google.com/file/d/1exbS7RrHnHfOg3PIiYw2ohC71fGtb5p7/view?usp=drive_link
 ---
 
 ## ✨ Features
